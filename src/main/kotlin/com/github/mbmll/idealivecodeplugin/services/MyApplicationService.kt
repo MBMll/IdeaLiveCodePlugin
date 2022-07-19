@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mbmll.idealivecodeplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mbmll.idealivecodeplugin.MyBundle
 
 class MyApplicationService {
 
